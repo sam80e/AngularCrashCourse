@@ -1,0 +1,15 @@
+//src https://app.pluralsight.com/course-player?clipId=c87a082f-f71f-4c9c-96b3-9f4f12dc01d4
+
+// npm run server
+//npm start
+//have these running in seperate terminals
+
+//create new app components
+//ng g c login --spec false
+//spec = tests
+
+//create new service
+//ng g s identity --spec false
+//s = service
+
+//package.json file contains this - "build": "ng build --prod" - which is a modified flag to build all assets for production which will be minified as small as possible 
